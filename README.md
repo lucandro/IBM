@@ -18,3 +18,9 @@ Metodología
   6.  **Visualización:** Crear paneles de control y visualizaciones interactivas para representar los resultados y facilitar la interpretación.
 
 Esta metodología nos permitirá no solo desarrollar un modelo efectivo, sino también proporcionar información valiosa para cualquier empresa que busque competir con SpaceX en la industria de lanzamientos espaciales.
+
+
+
+
+
+
