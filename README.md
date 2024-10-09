@@ -19,6 +19,14 @@ Metodología
 
 Esta metodología nos permitirá no solo desarrollar un modelo efectivo, sino también proporcionar información valiosa para cualquier empresa que busque competir con SpaceX en la industria de lanzamientos espaciales.
 
+# Desarrollo
+
+
+| Modulo 1                                                                                                                               |                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [Manejo_de_Datos.ipynb](https://github.com/lucandro/IBM/blob/3b00a27346c7475a9e2b14fa89904711a9599de7/Manejo_de_Datos.ipynb)           | Data wrangling                    |
+| [Api](https://github.com/lucandro/IBM/blob/c148166e82a80eba98c2f7e2f7f2720de11e1ac9/Recogida_de_Datos.ipynb)                           | Data Collection Api               |
+| [Web Scraping](https://github.com/lucandro/IBM/blob/c148166e82a80eba98c2f7e2f7f2720de11e1ac9/Recogida_de_Datos_con_Web_Scraping.ipynb) | Data Collection with Web Scraping |
 
 
 
