@@ -38,4 +38,12 @@ Esta metodología nos permitirá no solo desarrollar un modelo efectivo, sino ta
 ---
 
 
+| Modulo 3                                                                                                                        |                   |
+| ------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Análisis visual interactivo con Folium](https://github.com/lucandro/IBM/blob/95f6b10e01242f9cafc58e143630ba84b04fdc4b/An%C3%A1lisis_visual_interactivo_con_Folium.ipynb)                          | Interactive visual analysis with Folium          |
+| [Cuadro de mando](https://github.com/lucandro/IBM/blob/e7bda23df9d2c54e253cb03170a83c3ea4736821/Cuadro_de_Mando_Interactivo_con_Ploty_Dash.ipynb) | Interactive Dashboard with Plotly Dash  |
+
+
+---
+
 
