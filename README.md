@@ -20,7 +20,7 @@ Metodología
 Esta metodología nos permitirá no solo desarrollar un modelo efectivo, sino también proporcionar información valiosa para cualquier empresa que busque competir con SpaceX en la industria de lanzamientos espaciales.
 
 # Desarrollo
-
+---
 
 | Modulo 1                                                                                                                               |                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
@@ -28,7 +28,14 @@ Esta metodología nos permitirá no solo desarrollar un modelo efectivo, sino ta
 | [Api](https://github.com/lucandro/IBM/blob/c148166e82a80eba98c2f7e2f7f2720de11e1ac9/Recogida_de_Datos.ipynb)                           | Data Collection Api               |
 | [Web Scraping](https://github.com/lucandro/IBM/blob/c148166e82a80eba98c2f7e2f7f2720de11e1ac9/Recogida_de_Datos_con_Web_Scraping.ipynb) | Data Collection with Web Scraping |
 
+---
 
+| Modulo 2                                                                                                                        |                   |
+| ------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [EDA Sql](https://github.com/lucandro/IBM/blob/3f13c2add835bffc5309d4ada0251a386fba4c31/EDA_Sql.ipynb)                          | EDA  SQL          |
+| [EDA Visualización](https://github.com/lucandro/IBM/blob/ee243619c52c9ac26af164d328dcbd3b61e032ea/EDA_Visualizaci%C3%B3n.ipynb) | EDA Visualization |
+
+---
 
 
 
