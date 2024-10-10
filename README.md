@@ -47,3 +47,9 @@ Esta metodología nos permitirá no solo desarrollar un modelo efectivo, sino ta
 ---
 
 
+| Modulo 4 |     |
+| -------- | --- |
+| [Predicción de aprendizaje automático](https://github.com/lucandro/IBM/blob/c2e86019e088e1d411cf03fb5876b1eab2cd722b/Predicci%C3%B3n_de_aprendizaje_autom%C3%A1tico.ipynb)     | Machine learning prediction    |
+
+
+
